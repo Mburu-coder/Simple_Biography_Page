@@ -1,1 +1,1 @@
-# Simple_Biography_Page
+# A simple biography page of the first president of Kenya, Jomo Kenyatta.
